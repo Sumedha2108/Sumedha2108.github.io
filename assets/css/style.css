@@ -1,0 +1,36 @@
+/* file: style.css
+
+location: assets/css/styles.css
+
+*/
+
+
+/* header styles */
+.main-box {}
+.header {
+  background: red;
+}
+
+
+/* main content styles */
+.main-content-area {
+  display: flex;
+}
+.blogroll {
+  width: 70%;
+}
+.sidebar {
+  background: #95a5a6;
+}
+.sidebar-item {
+  padding: 20px;
+}
+
+/* footer styles */
+.footer-content-area{
+	padding: 50px;	
+	background: #34495e;
+}
+
+
+
